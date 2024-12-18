@@ -1,2 +1,3 @@
 <P> Here you will get details about Features which you need to use <P>
 This is Features Page
+Use Button, Checkbox
